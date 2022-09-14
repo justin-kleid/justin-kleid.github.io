@@ -1,14 +1,18 @@
-# main links
 main:
+  - title: "Home"
+    url: /
   - title: "About"
     url: /about/
+  - title: "Art"
+    url: /art/
   - title: "Mystery"
     url: /mystery/
-  # - title: "about"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+
+# Art Sidebar
+art: 
+- title: "Philosophy"
+  children: 
+    - title: "inf..."
+      url: /art/inf.../
+
+
