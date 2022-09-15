@@ -52,10 +52,12 @@ Ultimately, it appears religion is pragmatically irresponsible and not something
 
 
 
+{: .text-justify}
+{: .text-justify}
 
 
 
-Bibliography
+# Bibliography
 
 Clifford, William Kingdon., and Tim Madigan. The Ethics of Belief and Other Essays. Prometheus Books, 2009. 
 
