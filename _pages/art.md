@@ -1,6 +1,7 @@
 ---
-title:  "My Art"
+title:  ""
 permalink: /art/
+entries_layout: grid
 layout: categories
 author_profile: true
 comments: true
