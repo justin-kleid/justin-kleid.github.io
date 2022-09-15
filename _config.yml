@@ -5,11 +5,11 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Justin Kleidermacher"
+title                    : "Flightless Emus"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Justin Kleidermacher"
-description              : "An amazing website."
+description              : "My Personal Website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Justin Kleidermacher"
   avatar           : "/assets/images/profile-pic.jpg"
-  bio              : "CS major"
+  bio              : "Undergraduate at the University of Chicago studying Computer Science"
   location         : "Chicago, Illinois"
   email            : "jkleidermacher@uchicago.edu"
   links:
@@ -113,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: ""https://github.com/justin-kleid""
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
