@@ -4,6 +4,7 @@ category: posts
 excerpt: "Poem of gratitude for someone gone too soon"
 date: September 15, 2022
 tags: Poetry
+categories: Poetry
 ---
 
 

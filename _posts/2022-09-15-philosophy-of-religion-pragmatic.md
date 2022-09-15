@@ -7,7 +7,7 @@ header:
     overlay_image: /assets/images/titanic.jpg
     caption: "Photo of the RMS Titanic.
 The TITANIC. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/2001704335/>."
-
+categories: Philosophy
 tags: 
  - Philosophy
  - Academic

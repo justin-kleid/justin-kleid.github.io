@@ -4,6 +4,7 @@ category: posts
 excerpt: "Poem reflecting on some of humanity's shortcomings"
 date: September 15, 2022
 tags: Poetry
+categories: Poetry
 ---
 
 
