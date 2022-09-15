@@ -4,6 +4,9 @@ excerpt: "Poem of gratitude for someone gone too soon"
 date: September 15, 2022
 tags: Poetry
 category: Poetry
+header:
+    overlay_image: /assets/images/Poetry/cosmos.jpg
+    caption: "Photo Credit: Juskteez Vu"
 ---
 
 
@@ -53,5 +56,10 @@ With memories fleeting fast,
 It is time to start anew.  
 My wish is reborn at last,  
 I hope the best for you.  
+
+{: .text-justify}
+{: .text-justify}
+
+Justin Kleidermacher
 
 

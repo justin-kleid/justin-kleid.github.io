@@ -1,12 +1,15 @@
 ---
 title: "A Cartesian Twist: A Fun Dive Into Possible AI Consciousness"
-excerpt: "My uchicago supplemental essay. The prompt asked to misattribute a famous quote and explore its implications - I chose Descartes' quote: 'I think, therefore I am' "
+excerpt: "My uchicago supplemental essay. The prompt asks to misattribute a famous quote and explore its implications - I chose Descartes' quote: 'I think, therefore I am' "
 date: September 15, 2022
 category: Philosophy
 tags: 
  - Philosophy
  - Free-writing
  - Artificial Intelligence
+header:
+    overlay_image: /assets/images/Philosophy/cartesian-AI.jpg
+    caption: "Photo Credit: Possessed Photography"
 ---
 
 

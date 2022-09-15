@@ -4,6 +4,9 @@ excerpt: "Poem reflecting on some of humanity's shortcomings"
 date: September 15, 2022
 tags: Poetry
 category: Poetry
+header:
+    overlay_image: /assets/images/Poetry/simulation.jpg
+    caption: "Photo Credit: Andras Vas"
 ---
 
 
@@ -61,3 +64,8 @@ Potential made obsolete.
 With a short defeated sigh,  
 It ends; I click delete.   
  
+
+{: .text-justify}
+{: .text-justify}
+
+Justin Kleidermacher
