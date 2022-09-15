@@ -1,5 +1,6 @@
 ---
 title: "Finding x"
+category: posts
 excerpt: "Limerick for an unknown variable"
 date: September 14, 2022
 tags: Poetry
