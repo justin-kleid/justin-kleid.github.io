@@ -1,9 +1,9 @@
 ---
 title:  "My Art"
 permalink: /art/
-layout: art
+layout: posts
 author_profile: true
 comments: true
 ---
 
-This page expresses my philosophical opinions and creativity.
+A page for my philosophical opinions and creativity.
