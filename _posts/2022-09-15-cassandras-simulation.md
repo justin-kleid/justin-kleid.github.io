@@ -1,6 +1,7 @@
 ---
 title: "Cassandra's Simulation"
-excerpt: "Poem reflecting on some of humanity's shortcomings"
+excerpt: "A reflection on humanity's shortcomings"
+tagline: ""
 date: September 15, 2022
 tags: Poetry
 category: Poetry

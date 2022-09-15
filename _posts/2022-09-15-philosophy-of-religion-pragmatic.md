@@ -1,6 +1,7 @@
 ---
 title: "The Pragmatic Approach for Belief in God: W.K. Clifford’s Shipowner Analogy and William James’s Refutation"
-excerpt: "An exploration into whether faith in God is pragmatically wise - The Titanic as a modern case study"
+excerpt: "Is faith in God pragmatically wise?"
+tagline: ""
 date: September 15, 2022
 header:
     teaser: /assets/images/Philosophy/titanic.jpg

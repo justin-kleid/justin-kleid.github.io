@@ -1,6 +1,7 @@
 ---
 title: "A Gift From The Cosmos"
-excerpt: "Poem of gratitude for someone gone too soon"
+excerpt: "For someone gone too soon"
+tagline: ""
 date: September 15, 2022
 tags: Poetry
 category: Poetry
