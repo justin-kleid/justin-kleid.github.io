@@ -1,7 +1,7 @@
 ---
 title:  "My Art"
-layout: archive
 permalink: /art/
+layout: art
 author_profile: true
 comments: true
 ---
