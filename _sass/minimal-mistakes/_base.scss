@@ -27,8 +27,8 @@ h3,
 h4,
 h5,
 h6 {
-  margin: 2em 0 0.5em;
-  line-height: 1.2;
+  margin: 1em 0 1em;
+  line-height: 1.4;
   font-family: $header-font-family;
   font-weight: bold;
 }
@@ -64,7 +64,8 @@ small,
 }
 
 p {
-  margin-bottom: 1.3em;
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 
 u,
