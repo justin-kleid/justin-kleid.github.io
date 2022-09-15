@@ -1,7 +1,7 @@
 ---
 title:  "My Art"
 permalink: /art/
-layout: posts
+layout: categories
 author_profile: true
 comments: true
 ---
