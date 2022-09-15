@@ -3,6 +3,7 @@ title: "The Pragmatic Approach for Belief in God: W.K. Clifford’s Shipowner An
 excerpt: "An exploration into whether faith in God is pragmatically wise - The Titanic as a modern case study"
 date: September 15, 2022
 header:
+    teaser: /assets/images/Philosophy/titanic.jpg
     overlay_image: /assets/images/Philosophy/titanic.jpg
     caption: "Photo of the RMS Titanic.
 The TITANIC. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/2001704335/>."

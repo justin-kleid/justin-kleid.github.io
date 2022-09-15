@@ -8,6 +8,7 @@ tags:
  - Free-writing
  - Artificial Intelligence
 header:
+    teaser: /assets/images/Philosophy/cartesian-AI.jpg
     overlay_image: /assets/images/Philosophy/cartesian-AI.jpg
     caption: "Photo Credit: Possessed Photography"
 ---

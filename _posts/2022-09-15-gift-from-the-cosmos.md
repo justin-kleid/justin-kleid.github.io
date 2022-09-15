@@ -5,6 +5,7 @@ date: September 15, 2022
 tags: Poetry
 category: Poetry
 header:
+    teaser: /assets/images/Poetry/cosmos.jpg
     overlay_image: /assets/images/Poetry/cosmos.jpg
     caption: "Photo Credit: Juskteez Vu"
 ---
