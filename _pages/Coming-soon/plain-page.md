@@ -18,17 +18,18 @@ classes: wide
             if (str.match("taylor"))
                 res = "TRUE";
             else
-                res = "FALSE (hint: Decipher Anagram On About Me Page)";
+                res = "FALSE (About Me and Anagrams)";
             document.getElementById("output").value = res;
             if (res == "TRUE")
-            	window.location.href = 'https://justinkleidermacher.com/secret-page/easter';
+            	window.location.href = 'https://justinkleidermacher.com/secret-page/easter/';
         }
     </script>
 </head>
   
 <body>
     <p>
-        Password:
+        Only certain individuals should be here.
+        <br>Password:
         <input type="text" 
                placeholder="abc"
                id="input" />
@@ -38,7 +39,7 @@ classes: wide
                value="Check" 
                onclick="check_password()" />
         <br/>
-        <br/> Output:
+        <br/> Validation:
         <input type="text" 
                id="output"
                readonly/>
