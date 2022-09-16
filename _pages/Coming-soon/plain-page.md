@@ -22,7 +22,6 @@ classes: wide
             else
                 res = "FALSE";
             document.getElementById("t2").value = res;
-  
         }
     </script>
 </head>
