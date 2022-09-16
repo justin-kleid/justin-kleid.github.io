@@ -14,7 +14,11 @@ classes: wide
 </details>
 
 
-<a><button name="button" type = "hidden" onclick="justinkleidermacher.com"> Button </button></a>
+<p>
+  <a href="https://justinkleidermacher.com" title="Redirect to homepage">
+    <img src="/assets/images/Poetry/finding-x.jpg" alt="homepage" />
+  </a>
+</p>
 
 
 
