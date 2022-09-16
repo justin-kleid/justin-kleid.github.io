@@ -18,7 +18,6 @@ classes: wide
                 document.getElementById("t1").value;
             if (str.match("taylor"))
                 res = "TRUE";
-                window.location.href = 'justinkleidermacher.com';
             else
                 res = "FALSE";
             document.getElementById("t2").value = res;
