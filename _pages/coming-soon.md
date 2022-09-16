@@ -9,14 +9,14 @@ classes: wide
 <details>
   <summary>This page is under construction.  </summary>
   
-  <span style="font-family:Courier; font-size:1em; color:blue;"> BPQA XIOM QA VWB EPIB QB AMMUA - BWX ZQOPB </span>
+  <span style="font-family:Courier; font-size:0.5em; color:blue;"> BPQA XIOM QA VWB EPIB QB AMMUA - BWX ZQOPB </span>
   
 </details>
 
 
 <p>
   <a href="https://justinkleidermacher.com" title="Redirect to homepage">
-    <img src="/assets/images/Poetry/egg.svg" alt="homepage" />
+    <img src="/assets/images/Poetry/egg.png" alt="homepage" />
   </a>
 </p>
 
