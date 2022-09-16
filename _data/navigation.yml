@@ -7,14 +7,8 @@ main:
     url: /art/
   - title: "Resume"
     url: /assets/documents/Justin-Kleidermacher-resume.pdf 
-  - title: "Mystery"
-    url: /mystery/
+  - title: "Coming Soon"
+    url: /Nero/
 
-# Art Sidebar
-art: 
-- title: "Philosophy"
-  children: 
-    - title: "inf..."
-      url: /art/inf.../
 
 

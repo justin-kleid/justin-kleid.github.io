@@ -3,7 +3,7 @@ title:  "Art"
 permalink: /art/
 entries_layout: grid
 layout: categories
-author_profile: true
+# author_profile: true
 comments: true
 classes: wide
 header:
