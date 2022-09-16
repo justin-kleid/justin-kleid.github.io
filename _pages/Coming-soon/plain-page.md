@@ -5,12 +5,16 @@ permalink: /secret-page/
 author_profile: true
 comments: true
 classes: wide
+header:
+    overlay_image: /assets/images/error-banner.jpg
+    caption: "Photo Credit: Jose Castillo"
+excerpt: "  "
 ---
 
 <html>
   
 <head>
-    <title>passwor validation</title>
+    <title>password validation</title>
     <script type="text/javascript">
         function check_password() {
             var res;
