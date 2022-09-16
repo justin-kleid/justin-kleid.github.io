@@ -9,12 +9,12 @@ classes: wide
 <details>
   <summary>This page is under construction.  </summary>
   
-  <span style="font-family:Papyrus; font-size:1em; color:blue;"> Bpqa xiom qa vwb epib qb ammua - bwx zqopb </span>
+  <span style="font-family:Courier; font-size:1em; color:blue;"> BPQA XIOM QA VWB EPIB QB AMMUA - BWX ZQOPB </span>
   
 </details>
 
 
-<button name="button" onclick="https://google.com">Google Link</button>
+<a><button name="button" style = "display:none" onclick="justinkleidermacher.com"> Button </button></a>
 
 
 
