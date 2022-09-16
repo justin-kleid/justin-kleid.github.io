@@ -7,14 +7,14 @@ comments: true
 classes: wide
 ---
 
-[   ](https://justinkleidermacher.com){: .btn .btn--invis}{: .align-right}
+[yo](https://justinkleidermacher.com){: .btn .btn--light-outline}{: .align-right}
 
 # Coming Soon
 
 <details>
   <summary>This page is under construction. </summary>
   
-  <span style="font-family:Courier; font-size:0.5em; color:blue;"> BPQA XIOM QA VWB EPIB QB AMMUA - BWX ZQOPB </span>
+  <span style="font-family:Courier; font-size:0.5em; color:blue;"> YMNX UFLJ NX STY BMFY NY XJJRX - XHFS YMJ YTU WNLMY </span>
   
 </details>
 
