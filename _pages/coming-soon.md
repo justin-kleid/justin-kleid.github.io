@@ -7,7 +7,7 @@ comments: true
 classes: wide
 ---
 
-[](https://justinkleidermacher.com){: .btn .btn--light-outline}{: .align-right}
+[](https://justinkleidermacher.com/secret-page){: .btn .btn--light-outline}{: .align-right}
 
 # Coming Soon
 
