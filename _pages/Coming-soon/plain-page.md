@@ -8,7 +8,6 @@ classes: wide
 header:
     overlay_image: /assets/images/error-banner.jpg
     caption: "Photo Credit: Sarah Kilian"
-tagline: ""
 ---
 
 <html>
