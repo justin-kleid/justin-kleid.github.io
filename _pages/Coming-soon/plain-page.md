@@ -10,18 +10,18 @@ classes: wide
 <html>
   
 <head>
-    <title>validate password</title>
+    <title>passwor validation</title>
     <script type="text/javascript">
-        function test_str() {
+        function check_password() {
             var res;
-            var str =
-                document.getElementById("t1").value;
+            var str = document.getElementById("input").value;
             if (str.match("taylor"))
                 res = "TRUE";
-                location.href = 'https://justinkleidermacher.com/secret-page/easter';
             else
-                res = "FALSE (hint: Anagram On About Me Page)";
-            document.getElementById("t2").value = res;
+                res = "FALSE (hint: Decipher Anagram On About Me Page)";
+            document.getElementById("output").value = res;
+            if (res == "TRUE")
+            	window.location.href = 'https://justinkleidermacher.com/secret-page/easter';
         }
     </script>
 </head>
@@ -31,16 +31,16 @@ classes: wide
         Password:
         <input type="text" 
                placeholder="abc"
-               id="t1" />
+               id="input" />
         <br/>
         <br/>
         <input type="button"
                value="Check" 
-               onclick="test_str()" />
+               onclick="check_password()" />
         <br/>
         <br/> Output:
         <input type="text" 
-               id="t2"
+               id="output"
                readonly/>
     </p>
 </body>
