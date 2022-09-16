@@ -18,7 +18,7 @@ classes: wide
             if (str.match("taylor"))
                 res = "TRUE";
             else
-                res = "FALSE (About Me and Anagrams)";
+                res = "FALSE (hint: About Me - Anagramss)";
             document.getElementById("output").value = res;
             if (res == "TRUE")
             	window.location.href = 'https://justinkleidermacher.com/secret-page/easter/';
@@ -28,7 +28,7 @@ classes: wide
   
 <body>
     <p>
-        Only certain individuals should be here...
+        Only certain individuals are allowed here...
         <br>
         <br>Password:
         <input type="text" 
@@ -37,7 +37,7 @@ classes: wide
         <br/>
         <br/>
         <input type="button"
-               value="Check" 
+               value="Verify" 
                onclick="check_password()" />
         <br/>
         <input type="text" 
