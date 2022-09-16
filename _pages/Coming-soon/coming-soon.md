@@ -8,7 +8,7 @@ classes: wide
 header:
     overlay_image: /assets/images/coming-soon-banner.jpg
     caption: "Photo Credit: Nicolas J Leclercq"
-excerpt: false
+show_overlay_excerpt: false
 ---
 
 [](https://justinkleidermacher.com/secret-page){: .btn .btn--light-outline}{: .align-right}
