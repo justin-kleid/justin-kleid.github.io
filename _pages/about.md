@@ -5,8 +5,8 @@ permalink: /about/
 author_profile: true
 comments: true
 header:
-    overlay_image: /assets/images/about-banner2.jpg
+    overlay_image: /assets/images/about-banner3.jpg
     caption: "Photo Credit: rollelflex_graphy726"
 ---
 
-About me...
+About me... j
