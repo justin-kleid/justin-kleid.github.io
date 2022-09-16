@@ -6,6 +6,9 @@ permalink: /Nero/
 comments: true
 classes: wide
 ---
+
+[](https://justinkleidermacher.com){: .btn .btn--invis}{: .align-right}
+
 <details>
   <summary>This page is under construction.  </summary>
   
@@ -14,14 +17,5 @@ classes: wide
 </details>
 
 
-<p>
-  <a href="https://justinkleidermacher.com" title="Redirect to homepage">
-    <img src="/assets/images/Poetry/egg.png" alt="homepage" />
-  </a>
-</p>
 
-
-[Tex](https://justinkleidermacher.com){: .btn .btn--invis}
-
-yo
 
