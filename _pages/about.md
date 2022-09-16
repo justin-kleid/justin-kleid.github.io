@@ -7,6 +7,9 @@ comments: true
 header:
     overlay_image: /assets/images/about-banner2.jpg
     caption: "Photo Credit: Jani Kaasinen"
+excerpt: "naas  ddd dwfefr
+            dd
+                d"
 ---
 
 About me... j
