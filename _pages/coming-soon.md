@@ -16,7 +16,7 @@ classes: wide
 
 <p>
   <a href="https://justinkleidermacher.com" title="Redirect to homepage">
-    <img src="/assets/images/Poetry/finding-x.jpg" alt="homepage" />
+    <img src="/assets/images/Poetry/egg.svg" alt="homepage" />
   </a>
 </p>
 
