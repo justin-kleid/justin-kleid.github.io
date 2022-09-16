@@ -16,11 +16,11 @@ classes: wide
             var res;
             var str =
                 document.getElementById("t1").value;
-            if (str.match("taylor") && str.length >= 4)
+            if (str.match("taylor"))
                 res = "TRUE";
             else
                 res = "FALSE";
-                window.location.href = 'secret-page/easter/';
+                window.location.href = '/easter/';
             document.getElementById("t2").value = res;
   
         }
