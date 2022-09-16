@@ -28,7 +28,8 @@ classes: wide
   
 <body>
     <p>
-        Only certain individuals should be here.
+        Only certain individuals should be here...
+        <br>
         <br>Password:
         <input type="text" 
                placeholder="abc"
@@ -39,7 +40,6 @@ classes: wide
                value="Check" 
                onclick="check_password()" />
         <br/>
-        <br/> Validation:
         <input type="text" 
                id="output"
                readonly/>
