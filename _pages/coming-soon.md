@@ -14,7 +14,7 @@ classes: wide
 </details>
 
 
-<a><button name="button" style = "display:none" onclick="justinkleidermacher.com"> Button </button></a>
+<a><button name="button" type = "hidden" onclick="justinkleidermacher.com"> Button </button></a>
 
 
 
