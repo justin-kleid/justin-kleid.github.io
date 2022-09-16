@@ -5,6 +5,10 @@ permalink: /Nero/
 author_profile: true
 comments: true
 classes: wide
+header:
+    overlay_image: /assets/images/coming-soon-banner.jpg
+    caption: "Photo Credit: Nicolas J Leclercq"
+tagline: ""
 ---
 
 [](https://justinkleidermacher.com/secret-page){: .btn .btn--light-outline}{: .align-right}

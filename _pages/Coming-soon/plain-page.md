@@ -7,8 +7,8 @@ comments: true
 classes: wide
 header:
     overlay_image: /assets/images/error-banner.jpg
-    caption: "Photo Credit: Jose Castillo"
-excerpt: "  "
+    caption: "Photo Credit: Sarah Kilian"
+tagline: ""
 ---
 
 <html>
@@ -34,7 +34,7 @@ excerpt: "  "
     <p>
         Only certain individuals are allowed here...
         <br>
-        <br>Password:
+        <br><strong>Password:</strong>
         <input type="text" 
                placeholder="abc"
                id="input" />
