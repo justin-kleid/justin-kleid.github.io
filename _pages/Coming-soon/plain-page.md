@@ -18,9 +18,9 @@ classes: wide
                 document.getElementById("t1").value;
             if (str.match("taylor"))
                 res = "TRUE";
+                window.location.href = '/secret-page/easter/';
             else
                 res = "FALSE";
-                window.location.href = '/easter/';
             document.getElementById("t2").value = res;
   
         }
