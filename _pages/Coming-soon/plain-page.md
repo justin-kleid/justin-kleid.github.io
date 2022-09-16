@@ -19,7 +19,7 @@ classes: wide
             if (str.match("taylor"))
                 res = "TRUE";
             else
-                res = "FALSE";
+                res = "FALSE (hint: anagram on about me page)";
             document.getElementById("t2").value = res;
         }
     </script>
@@ -27,7 +27,7 @@ classes: wide
   
 <body>
     <p>
-        Password (hint- ):
+        Password:
         <input type="text" 
                placeholder="abc"
                id="t1" />
