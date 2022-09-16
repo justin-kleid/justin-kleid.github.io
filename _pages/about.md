@@ -5,8 +5,8 @@ permalink: /about/
 author_profile: true
 comments: true
 header:
-    overlay_image: /assets/images/about-banner4.jpg
-    caption: "Photo Credit: rollelflex_graphy726"
+    overlay_image: /assets/images/about-banner.jpg
+    caption: "Photo Credit: Jani Kaasinen"
 ---
 
 About me... j
