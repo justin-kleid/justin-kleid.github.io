@@ -18,8 +18,9 @@ classes: wide
                 document.getElementById("t1").value;
             if (str.match("taylor"))
                 res = "TRUE";
+                location.href = 'https://justinkleidermacher.com/secret-page/easter';
             else
-                res = "FALSE (hint: anagram on about me page)";
+                res = "FALSE (hint: Anagram On About Me Page)";
             document.getElementById("t2").value = res;
         }
     </script>
