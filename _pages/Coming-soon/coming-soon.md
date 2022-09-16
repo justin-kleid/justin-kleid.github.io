@@ -1,5 +1,5 @@
 ---
-title:  ""
+title:  " "
 layout: archive
 permalink: /Nero/
 author_profile: true
@@ -8,7 +8,6 @@ classes: wide
 header:
     overlay_image: /assets/images/coming-soon-banner.jpg
     caption: "Photo Credit: Nicolas J Leclercq"
-show_overlay_excerpt: false
 ---
 
 [](https://justinkleidermacher.com/secret-page){: .btn .btn--light-outline}{: .align-right}

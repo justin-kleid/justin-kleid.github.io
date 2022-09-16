@@ -1,5 +1,5 @@
 ---
-title:  ""
+title:  " "
 layout: archive
 permalink: /secret-page/
 author_profile: true
