@@ -1,5 +1,5 @@
 ---
-title:  ""
+title:  "Art"
 permalink: /art/
 entries_layout: grid
 layout: categories
