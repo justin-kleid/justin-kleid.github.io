@@ -21,4 +21,4 @@ I will grow by my own decree.
 
 {: .text-justify}
 
-Justin Kleiermacher
+Justin Kleidermacher
