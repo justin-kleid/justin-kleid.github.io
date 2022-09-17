@@ -10,4 +10,15 @@ header:
     caption: "Photo Credit: Annie Spratt"
 ---
 
-# Welcome
+# You found a hidden poem 
+ 
+I sadly must admit,
+My pants are too large to fit.
+I look wearily around - 
+No culprit to be found.
+Soon it dawns on me,
+I will grow by my own decree.
+
+{: .text-justify}
+
+Justin Kleiermacher

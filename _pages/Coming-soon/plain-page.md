@@ -21,7 +21,7 @@ header:
             if (str.match("taylor"))
                 res = "TRUE";
             else
-                res = "FALSE (hint: About Me - Anagramss)";
+                res = "FALSE (hint: About Me and Anagrams)";
             document.getElementById("output").value = res;
             if (res == "TRUE")
             	window.location.href = 'https://justinkleidermacher.com/secret-page/easter/';
@@ -31,7 +31,7 @@ header:
   
 <body>
     <p>
-        Only certain individuals are allowed here...
+        A password is needed to advance
         <br>
         <br><strong>Password:</strong>
         <input type="text" 

@@ -10,14 +10,14 @@ header:
     caption: "Photo Credit: Nicolas J Leclercq"
 ---
 
-[](https://justinkleidermacher.com/secret-page){: .btn .btn--light-outline}{: .align-right}
+[](https://justinkleidermacher.com/secret-page){: .btn .btn--light-outline .btn--large}{: .align-right}
 
 # Coming Soon
 
 <details>
   <summary>This page is under construction. </summary>
   
-  <span style="font-family:Courier; font-size:0.5em; color:blue;"> YMNX UFLJ NX STY BMFY NY XJJRX - XHFS YMJ YTU WNLMY </span>
+  <span style="font-family:Courier; font-size:0.5em; color:blue;"> YMNX UFLJ NX STY BMFY NY XJJRX - XHFS YMJ YTU WNLMY KTW FS NSANXNGQJ GZYYTS </span>
   
 </details>
 
