@@ -32,12 +32,12 @@ header:
 .button1 {
   background-color: #f3f6f6; 
   color: #f3f6f6; 
-  border: 2px solid #f3f6f6;;
+  border: 2px solid #f3f6f6;
 }
 
 .button1:hover {
   background-color: #4CAF50;
-  color: white;
+  color: red;
 }
 
 </style>
