@@ -21,7 +21,7 @@ header:
             if (str.match("checkmate"))
                 res = "TRUE";
             else
-                res = "FALSE (hint: Read About Me Page)";
+                res = "FALSE (hint: Read The About Me Page)";
             document.getElementById("output").value = res;
             if (res == "TRUE")
             	window.location.href = 'https://justinkleidermacher.com/secret-page/easter/';
