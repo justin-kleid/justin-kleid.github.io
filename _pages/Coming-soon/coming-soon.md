@@ -41,12 +41,11 @@ header:
 </head>
 <body>
 
-<button class="button button1">?</button>
+<button class="button button1" onclick="window.location.href='https://justinkleidermacher.com';">?</button>
 
 </body>
 </html>
 
-[?](https://justinkleidermacher.com/secret-page){: .btn .btn--light-outline .btn--x-large}{: .align-right}
 
 # Coming Soon
 
