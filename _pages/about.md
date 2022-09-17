@@ -11,7 +11,7 @@ excerpt: "  "
 ---
 
 <img src="assets/images/about-me.jpg"
-width="50%" hspace="20" align="right">
+width="50%" hspace="20">
 
 Hi! I am a student at the University of Chicago interested in Computer Science. This website serves as a centralized place to express my projects, creative ambitions, and personal opinions. The contents, especially on the art page, reflect my favorite hobbies.
 
@@ -37,7 +37,7 @@ Ultimately, this website is a fun medium for expressing myself. It contains my a
 
 {: .text-justify}
 
-A final cryptic tip: interpret the content of this website with your own creativity and perhaps you will uncover easter eggs here as well. For instance, consider that Nero was the 5th Caesar of the Roman Empire. Does that have any deeper meanings?
+A final cryptic tip: interpret the content of this website with your own creativity and maybe find your own easter eggs here. Did you know Nero was the 5th Caesar of the Roman Empire? 
 
 {: .text-justify}
 
