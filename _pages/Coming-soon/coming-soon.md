@@ -27,13 +27,11 @@ header:
   right:0;
   cursor: pointer;
 }
-
 .button1 {
   background-color: red; 
   color: #f3f6f6; 
   border: 2px solid #f3f6f6;
 }
-
 .button1:hover {
   background-color: #4CAF50;
   color: red;
@@ -47,6 +45,7 @@ header:
 
 </body>
 </html>
+
 [?](https://justinkleidermacher.com/secret-page){: .btn .btn--light-outline .btn--x-large}{: .align-right}
 
 # Coming Soon
