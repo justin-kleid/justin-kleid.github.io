@@ -41,7 +41,7 @@ header:
 </head>
 <body>
 
-<button class="button button1" onclick="window.location.href='justinkleidermacher.com/secret-page/';">?</button>
+<button class="button button1">?</button>
 
 </body>
 </html>
