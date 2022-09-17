@@ -23,17 +23,20 @@ header:
   font-size: 16px;
   margin: 4px 2px;
   transition-duration: 0.4s;
+  position:absolute;
+  top:0;
+  right:0;
   cursor: pointer;
 }
 
 .button1 {
-  background-color: white; 
-  color: black; 
-  border: 2px solid #4CAF50;
+  background-color: #f3f6f6;; 
+  color: #f3f6f6;; 
+  border: 2px solid #f3f6f6;;
 }
 
 .button1:hover {
-  background-color: #4CAF50;
+  background-color: red;
   color: white;
 }
 
