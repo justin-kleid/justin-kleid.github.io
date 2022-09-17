@@ -18,7 +18,7 @@ header:
         function check_password() {
             var res;
             var str = document.getElementById("input").value;
-            if (str.match("taylor"))
+            if (str.match("checkmate"))
                 res = "TRUE";
             else
                 res = "FALSE (hint: About Me and Anagrams)";
