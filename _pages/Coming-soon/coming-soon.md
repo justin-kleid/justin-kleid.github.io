@@ -10,7 +10,7 @@ header:
     caption: "Photo Credit: Nicolas J Leclercq"
 ---
 
-[](https://justinkleidermacher.com/secret-page){: .btn .btn--light-outline .btn--x-large}{: .align-right}
+[?](https://justinkleidermacher.com/secret-page){: .btn .btn--light-outline .btn--x-large}{: .align-right}
 
 # Coming Soon
 
