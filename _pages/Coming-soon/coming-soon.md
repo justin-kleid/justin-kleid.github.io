@@ -22,6 +22,7 @@ header:
   font-size: 16px;
   margin: 4px 2px;
   transition-duration: 0.4s;
+  position: absolute;
   top: 0;
   right: 0;
   cursor: pointer;
@@ -42,7 +43,7 @@ header:
 </head>
 <body>
 
-<button class="button button1" onclick="window.location.href='https://justinkleidermacher.com';">?</button>
+<button class="button button1" onclick="window.location.href='https://justinkleidermacher.com/secret-page';">?</button>
 
 </body>
 </html>
