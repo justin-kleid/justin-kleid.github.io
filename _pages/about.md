@@ -10,13 +10,14 @@ header:
 excerpt: "  "
 ---
 
-<img src="assets/images/about-me.jpg" width="50%" hspace="20">
+<img src="{{ "/assets/images/about-me.jpg" | absolute_url }}"
+width="50%" hspace="20" align="right">
 
 Hi! I am a student at the University of Chicago interested in Computer Science. This website serves as a centralized place to express my projects, creative ambitions, and personal opinions. The contents, especially on the art page, reflect my favorite hobbies.
 
 {: .text-justify}
 
-Complicated issues that require clever problem solving fascinate me. Since a young age, I have involved myself with hobbies that incorporate these skills. I fell in love with chess and the myriad ways in which I could coordinate my pieces to outmaneuver an opponent. I competed in numerous chess tournaments and still actively play the game albeit on a more casual level (friend me on chess.com @ flightlessemu). Computer Science and problem solving are inextricably linked, which makes it extremely interesting for me (despite the frustrating segfaults, etc).
+Complicated issues that require clever problem solving fascinate me. Since a young age, I have involved myself with hobbies that incorporate these skills. I fell in love with chess and the myriad ways in which I could coordinate my pieces to outmaneuver an opponent. I competed in numerous chess tournaments and still actively play the game albeit on a more casual level (add me on chess.com @ flightlessemu). Computer Science and problem solving are inextricably linked, which makes it extremely interesting for me.
 
 {: .text-justify}
 
@@ -28,7 +29,7 @@ In my free time, I play a lot of beach volleyball, although Chicago's weather is
 
 {: .text-justify}
 
-I am also invested in the fight against Alzheimer's. The disease has impacted my family, and I try to contribute as much as possible to an eventual creation of a cure. I created/managed a company called PJ Pillows (we sold custom photo pillows to raise money for Alzheimer's research), and walk yearly with family and friends in the Walk to End Alzheimer's towards these ends.
+I am also invested in the fight against Alzheimer's. The disease has impacted my family, and I try to contribute as much as possible to an eventual discovery of a cure. I created/managed a company called PJ Pillows (we sold custom photo pillows to raise money for Alzheimer's research), and walk yearly with family and friends in the Walk to End Alzheimer's towards these ends.
 
 {: .text-justify}
 
