@@ -10,8 +10,7 @@ header:
 excerpt: "  "
 ---
 
-<img src="assets/images/about-me.jpg"
-width="50%" hspace="20">
+<img src="assets/images/about-me.jpg" width="50%" hspace="20">
 
 Hi! I am a student at the University of Chicago interested in Computer Science. This website serves as a centralized place to express my projects, creative ambitions, and personal opinions. The contents, especially on the art page, reflect my favorite hobbies.
 
