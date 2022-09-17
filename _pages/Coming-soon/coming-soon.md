@@ -30,8 +30,8 @@ header:
 }
 
 .button1 {
-  background-color: #4CAF50; 
-  color: #f3f6f6;; 
+  background-color: #f3f6f6; 
+  color: #f3f6f6; 
   border: 2px solid #f3f6f6;;
 }
 
@@ -44,7 +44,7 @@ header:
 </head>
 <body>
 
-<button class="button button1" onclick="location.href='https://justinkleidermacher.com/secret-page'">?</button>
+<button class="button button1" onclick="window.location.href='https://justinkleidermacher.com/secret-page/';">?</button>
 
 </body>
 </html>
