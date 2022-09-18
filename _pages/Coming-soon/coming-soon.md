@@ -40,7 +40,7 @@ header:
 </head>
 <body>
 
-<button class="button button1" onclick="window.location.href='https://justinkleidermacher.com/secret-page';" style="margin-left: 95%;">?</button>
+<button class="button button1" onclick="window.location.href='https://justinkleidermacher.com/secret-page';" style="margin-left: 98%;" style="margin-bottom: 98%;">?</button>
 
 </body>
 </html>
