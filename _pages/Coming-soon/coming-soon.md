@@ -23,14 +23,15 @@ header:
   margin: 4px 2px;
   transition-duration: 0.4s;
   cursor: pointer;
-  top: 50%;
-  left: 50%;
 }
 
 .button1 {
   background-color: #f3f6f6; 
   color: #f3f6f6; 
   border: 2px solid #f3f6f6;
+  position: absolute;
+  top: 0;
+  right: 0;
 }
 
 .button1:hover {
