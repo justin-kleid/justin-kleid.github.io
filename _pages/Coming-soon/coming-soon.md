@@ -29,24 +29,18 @@ header:
   background-color: #f3f6f6; 
   color: #f3f6f6; 
   border: 2px solid #f3f6f6;
-  position: absolute;
-  top: 0;
-  right: 0;
 }
 
 .button1:hover {
   background-color: gray;
   color: white;
-  position: absolute;
-  top: 0;
-  right: 0;
 }
 
 </style>
 </head>
 <body>
 
-<button class="button button1" onclick="window.location.href='https://justinkleidermacher.com/secret-page';">?</button>
+<button class="button button1" onclick="window.location.href='https://justinkleidermacher.com/secret-page';" style="margin-top: 5%;">?</button>
 
 </body>
 </html>
