@@ -21,8 +21,11 @@ header:
   display: inline-block;
   font-size: 16px;
   margin: 4px 2px;
+  position:absolute;
   transition-duration: 0.4s;
   cursor: pointer;
+  top: 50%;
+  left: 50%;
 }
 
 .button1 {
