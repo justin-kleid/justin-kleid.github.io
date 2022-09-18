@@ -21,7 +21,7 @@ header:
   display: inline-block;
   font-size: 16px;
   margin: 4px 2px;
-  position:absolute;
+  position:relative;
   transition-duration: 0.4s;
   cursor: pointer;
   top: 50%;
